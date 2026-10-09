@@ -16,7 +16,7 @@ The project is deliberately organized to preserve the original values and state 
 
 The main figures are reproduced from **NCRB Crime in India** data via Lok Sabha Unstarred Question 438, answered on December 2, 2025. 
 
-A total of 18 official Government of India sources—specifically Ministry of Home Affairs parliamentary replies and PIB documents—were recorded in the inventory to compile and verify this dataset.
+A total of 18 official Government of India sources specifically Ministry of Home Affairs parliamentary replies and PIB documents were recorded in the inventory to compile and verify this dataset.
 
 ## ⚠️ Data Comparability and Validation
 
